@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    color: #012169;
+} 
+
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+
+}
+
+#menu li {
+    float: right;
+    list-style: none;
+    margin-right: 30px;
+}
+
+#logo, #menu {
+    line-height: 75px;
+    color:#012169;
+}
+
+menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #012169;
+}
+
+#logo {
+    float: left;
+    font-size: 250%;
+    margin-left: 30px;
+}
+
+.active {
+    border-bottom: 1px solid #012169;
+}
+
+h2 {
+    color:#012169;
+}
+
+img {
+    margin: 0 auto;
+    height: 400px;
+    width: 100%;
+    float: left;
+}
+
+
+/* Text on the home page*/
+
+#home-text {
+   padding-top: 75px;
+   padding-left: 30%;
+}
+
+
+
+
+
