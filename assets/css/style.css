@@ -7,13 +7,15 @@
 body {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 300;
-    color: #012169;
+    color: #fff;
+    background-color: rgba(33, 45, 150, 0.6)
 } 
 
 
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
+   
 
 }
 
@@ -54,7 +56,7 @@ h2 {
 img {
     margin: 0 auto;
     margin-bottom: 30px;
-    height: 400px;
+    height: 300px;
     width: 100%;
     float: left;
 }
@@ -64,27 +66,32 @@ img {
 
 
 .welcome {
-    padding-top: 80px;
-    padding-left: 35%;
-    padding-bottom: 20px;
-    
+    padding-top: 90px;
+    padding-left: 40%;
+    padding-bottom: 50px;
+    font-size: xx-large;
 }
 
 #home-text {
    padding-top: 10px;
-   padding-left: 32%;
+   padding-left: 37%;
+   font-size: larger;
 }
 
 
 #explore-courses {
-    padding-top: 30px;
-    padding-left: 20%;
+    padding-top: 100px;
+    padding-left: 25%;
+    font-size: larger;
 }
 
 #answer-yes {
     padding-bottom: 20px;
-    padding-left: 25%;
+    padding-left: 30%;
+    font-size: larger;
 }
+
+
 
 
 
