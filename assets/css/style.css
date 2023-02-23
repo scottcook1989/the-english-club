@@ -23,6 +23,7 @@ body {
     float: right;
     list-style: none;
     margin-right: 30px;
+   
 }
 
 #logo, #menu {
@@ -80,7 +81,7 @@ img {
 
 
 #explore-courses {
-    padding-top: 100px;
+    padding-top: 80px;
     padding-left: 25%;
     font-size: larger;
 }
@@ -91,6 +92,24 @@ img {
     font-size: larger;
 }
 
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color:#012169;
+}
 
 
 
