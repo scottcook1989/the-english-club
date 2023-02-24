@@ -15,15 +15,12 @@ body {
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
-   
-
 }
 
 #menu li {
     float: right;
     list-style: none;
     margin-right: 30px;
-   
 }
 
 #logo, #menu {
@@ -33,11 +30,11 @@ body {
 
 menu a {
     text-decoration: none;
-    color: inherit;
+    color: #012169;
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #012169;
+    color: #C8102E;
 }
 
 #logo {
@@ -47,7 +44,7 @@ menu a {
 }
 
 .active {
-    border-bottom: 1px solid #012169;
+    color: #012169;
 }
 
 h2 {
@@ -71,6 +68,11 @@ img {
     padding-left: 40%;
     padding-bottom: 50px;
     font-size: xx-large;
+}
+
+hr {
+    border-bottom: 3px solid #012169;
+    width: 38%;
 }
 
 #home-text {
@@ -110,6 +112,7 @@ footer {
     padding: 5%;
     color:#012169;
 }
+
 
 
 
