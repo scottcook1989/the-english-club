@@ -19,7 +19,7 @@ body {
 }
 
 #nav-menu {
-    font-size; 110%;
+    font-size: 110%;
     letter-spacing: 4px;  
 }
 
@@ -56,7 +56,7 @@ body {
     background: url(../images/uk-flag.jpg) no-repeat center center;
 }
 
-#welcome {
+#welcome, #courses {
     height: 600px;
 }
 
@@ -68,7 +68,7 @@ body {
 
 .left-side-text {
     float: left;
-    margin-left: 60px;
+    margin-left: 30px;
     padding-bottom: 20px;
 }
 
@@ -78,6 +78,13 @@ body {
     margin-right: 30px;
     padding-bottom: 20px;
 }
+
+#courses-title {
+    margin-left: 30px;
+    padding-bottom: 40px;
+    font-style: italic;
+}
+
 
 iframe {
     width: 33%;
