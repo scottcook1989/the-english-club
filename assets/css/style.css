@@ -51,7 +51,7 @@ body {
 }
 
 #hero-image {
-    height: 600px;
+    height: 500px;
     width: 100%;
     background: url(../images/uk-flag.jpg) no-repeat center center;
 }
@@ -60,7 +60,45 @@ body {
     height: 600px;
 }
 
+#greeting {
+    margin-left: 30px;
+    padding-bottom: 40px;
+    font-style: italic;
+}
+
+.left-side-text {
+    float: left;
+    margin-left: 60px;
+    padding-bottom: 20px;
+}
 
 
+.right-side-text {
+    float: right;
+    margin-right: 30px;
+    padding-bottom: 20px;
+}
 
+iframe {
+    width: 33%;
+    margin: 0 auto;
+}
 
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color:#012169;
+}
