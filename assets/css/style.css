@@ -100,6 +100,12 @@ body {
     font-style: italic;
 }
 
+#contact-title {
+    margin-left: 30px;
+    padding-bottom: 40px;
+    font-style: italic;
+}
+
 #photos {
     height: 500px;
 }
