@@ -122,14 +122,14 @@ iframe {
 }
 
 .contact-section {
-    height: 600px;
+    height: 900px;
 }
 
 .send-message-form {
-    margin: 120px 10px 0 0;
+    float: right;
     color: #012169;
+    margin-right: 50px;
     max-width: 300px;
-    position: absolute;
     left: 10%;
     padding: 30px;
     background-color:#c8102e;
@@ -151,6 +151,16 @@ iframe {
     color: #fff;
     display: block;
 }
+
+.submit-button:hover {
+background-color: #fff;
+color:#012169;
+}
+
+#street-map {
+margin-left: 50px;
+}
+
 
 footer {
     height: 150px;
