@@ -9,3 +9,5 @@ The English Club is a made up institue which offers English lessons with special
 
 
 # Site Structure
+The site consists of 3 sections:
+-
